@@ -77,7 +77,10 @@
     </CudaCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CudaCompile Include="Hello_CUDA.cu" />
+    <CudaCompile Include="2.cudamalloc.cu" />
+    <CudaCompile Include="3.cudaMemcpy.cu" />
+    <CudaCompile Include="1.Hello_CUDA.cu" />
+    <CudaCompile Include="4. CudaVector.cu" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

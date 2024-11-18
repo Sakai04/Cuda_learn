@@ -1,4 +1,4 @@
-#include <cstdio>
+/*#include <cstdio>
 
 #include "cuda_runtime.h"
 #include "device_launch_parameters.h"
@@ -14,4 +14,4 @@ int main(void)
     helloCuda << <1, 10 >> > ();
     cudaDeviceSynchronize(); // GPU 작업이 완료될 때까지 기다림
     return 0;
-}
+}*/
