@@ -81,6 +81,7 @@
     <CudaCompile Include="3.cudaMemcpy.cu" />
     <CudaCompile Include="1.Hello_CUDA.cu" />
     <CudaCompile Include="4. CudaVector.cu" />
+    <CudaCompile Include="5.cuda_vector_program.cu" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
