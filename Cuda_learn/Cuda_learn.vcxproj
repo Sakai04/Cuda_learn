@@ -83,6 +83,7 @@
     <CudaCompile Include="4. CudaVector.cu" />
     <CudaCompile Include="5.cuda_vector_program.cu" />
     <CudaCompile Include="6.check_thread_layout.cu" />
+    <CudaCompile Include="7.gpu_info.cu" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
