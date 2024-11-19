@@ -1,4 +1,3 @@
-/*#include "cuda_runtime.h"
 #include "device_launch_parameters.h"
 
 
@@ -78,4 +77,3 @@ int main(void)
     delete[] a; delete[] b; delete[] c; delete[] hc;
 
     return 0;
-}*/
